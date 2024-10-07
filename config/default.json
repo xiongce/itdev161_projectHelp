@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://hunsickm:O73gnZf2iuetco0F@test2cluster.vh6nh.mongodb.net/?retryWrites=true&w=majority&appName=Test2Cluster",
+    "jwtSecret": "maytheforcebewithyou"
+}
